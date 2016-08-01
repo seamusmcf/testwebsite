@@ -1,1 +1,22 @@
+<html>
+<title>
+SOCIAL.MARKETING
+</title> 
 
+
+
+<body> 
+<h1> Marketing department section </h1> 
+
+<h2> ******************************************************************this section is for the marketing teams*********************************<br></br>
+    *******************************************************************Please choose an option from the list below on what even you woulkd like to have as the main event**************************</h2>
+<button>Paintballing</button><br></br>
+<button>Go-carting</button><br></br> 
+<button>Cycling</button><br></br> 
+<button>Drinking beer at spoons</button><br></br> 
+<button>Trip to london</button><br></br>
+<button>Something else</button><br></br>
+<h3> we know these decisions are not easy so please take your time on choosing and do not feel pressured into choosing something you do not want to do</h3>
+
+  </body>
+</html>
