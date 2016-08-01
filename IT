@@ -9,8 +9,12 @@
   <h1> IT department social section</h1>
   
   <h2> LOURN IPSEM WILL NOT LET ME INSET TEXT-----------------------------------------PLEASE FILL IN THE DATA BELOW----------------------------- THIS PAGE IS ABOUT CHOOSING WHICH EVEN YOU WANT TO DO TIS MONTH SO PLEASE SELECT FROM THE LIST BELOW<br></br></h2>
-  
-  
-  
+  <button>Paintballing</button><br></br>
+  <button>Go-carting</button> <br></br>
+  <button> Cycling</button <br></br>
+  <button>Drinking beer at spoons</button><br></br> 
+  <button> Trip to london</button><br></br>
+  <button> Something else </button>
+  <h3> we know these decisions are not easy so please take your time on choosing and do not feel pressured into choosing something you do not want<h3>
   
   </body>
